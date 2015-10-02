@@ -1,0 +1,14 @@
+{
+  "name": "jest-alias-module-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "JestAliasModuleLoader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Friend <james@jsdf.co> (http://jsdf.co/)",
+  "license": "MIT",
+  "dependencies": {
+    "object.assign": "^4.0.1"
+  }
+}
